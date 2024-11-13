@@ -1,15 +1,10 @@
-import React from 'react';
+import React from 'react'
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>
-        Mambo sawa
-
-      </h1>
-             </div>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
