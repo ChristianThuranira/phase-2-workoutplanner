@@ -11,7 +11,7 @@ const HeroBanner = () => (
       And Repeat
     </Typography>
     <Typography color="#f3d300" fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
-      l
+      
     </Typography>
     <Stack>
       <a href="#exercises" style={{ marginTop: '45px', textDecoration: 'none', width: '200px', textAlign: 'center', background: '#f3d300', padding: '14px', fontSize: '22px', textTransform: 'none', color: 'white', borderRadius: '4px' }}>Explore Exercises</a>
